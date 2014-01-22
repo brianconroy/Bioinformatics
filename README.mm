@@ -1,0 +1,1 @@
+This is a selection of code I wrote designed to do tasks in bioinformatic evolutionary analysis. It's fine to redistribute it. 
